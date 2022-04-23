@@ -52,4 +52,4 @@ quote.innerText = todaysQuote.quote;
 author.innerText = todaysQuote.author;
    }
 getQutoe();
-setInterval(getQutoe, 1000);
+setInterval(getQutoe, 3000);
